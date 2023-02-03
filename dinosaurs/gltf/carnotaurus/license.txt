@@ -1,0 +1,11 @@
+Model Information:
+* title:	my animated carnotaurus
+* source:	https://sketchfab.com/3d-models/my-animated-carnotaurus-9536b3d93938474b9d8aa1aaf900770f
+* author:	dinomaster (https://sketchfab.com/dinomaster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "my animated carnotaurus" (https://sketchfab.com/3d-models/my-animated-carnotaurus-9536b3d93938474b9d8aa1aaf900770f) by dinomaster (https://sketchfab.com/dinomaster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

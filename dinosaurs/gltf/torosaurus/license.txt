@@ -1,0 +1,11 @@
+Model Information:
+* title:	my animated torosaurus
+* source:	https://sketchfab.com/3d-models/my-animated-torosaurus-b0b492898ebd436eae558062fce8059d
+* author:	dinomaster (https://sketchfab.com/dinomaster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "my animated torosaurus" (https://sketchfab.com/3d-models/my-animated-torosaurus-b0b492898ebd436eae558062fce8059d) by dinomaster (https://sketchfab.com/dinomaster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

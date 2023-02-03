@@ -1,0 +1,11 @@
+Model Information:
+* title:	my animated argentinosaurus
+* source:	https://sketchfab.com/3d-models/my-animated-argentinosaurus-2e85f9b8bd6343f48839ea4a6617c728
+* author:	dinomaster (https://sketchfab.com/dinomaster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "my animated argentinosaurus" (https://sketchfab.com/3d-models/my-animated-argentinosaurus-2e85f9b8bd6343f48839ea4a6617c728) by dinomaster (https://sketchfab.com/dinomaster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
