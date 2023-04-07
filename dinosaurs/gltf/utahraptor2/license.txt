@@ -1,0 +1,11 @@
+Model Information:
+* title:	Utahraptor
+* source:	https://sketchfab.com/3d-models/utahraptor-2a6621d96c3944d6b12765274b49b68b
+* author:	robertfabiani (https://sketchfab.com/robertfabiani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Utahraptor" (https://sketchfab.com/3d-models/utahraptor-2a6621d96c3944d6b12765274b49b68b) by robertfabiani (https://sketchfab.com/robertfabiani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
